@@ -1,5 +1,5 @@
 # spicebag-fivem-optimizer
-A simple optimizer for FiveM based on the one created by ZYZNN.
+A simple optimizer for FiveM inspired by the one created by ZYZNN.
 
 I mean yeah, honestly theres not much to it.
 If you struggle to run FiveM this may help,
