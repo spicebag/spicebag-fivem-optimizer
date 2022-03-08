@@ -10,4 +10,4 @@ What this aims to do :
 - Set your windows power-plan to a high performance one designed purely for performance.
 - 
 
-[fivem_logo-freelogovectors net_](https://user-images.githubusercontent.com/94927382/157338393-983da396-14f9-4ede-8c61-62cc4e8ff2fd.png)
+![fivem_logo-freelogovectors net_](https://user-images.githubusercontent.com/94927382/157338438-6e250a2b-d5b0-4b75-9917-5e5443144223.png)
