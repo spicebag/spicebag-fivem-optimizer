@@ -1,8 +1,9 @@
 @echo off
+setlocal enabledelayedexpansion
 title https://github.com/spicebag
 color 6
 
-echo 
+echo Just a headsup, if it says something can't be found, it's because you don't have it, dont worry.
 echo Press Any Key to optimize FiveM by deleting the cache and closing down some resource intensive 
 pause >nul
 cls
@@ -35,14 +36,14 @@ wmic process where name="FiveM_b2189_GTAProcess.exe" CALL setpriority 128
 taskkill /f /im wmpnetwk.exe.exe
 taskkill /f /im OneDrive.exe
 taskkill /f /im speedfan.exe
-taskkill /f /im TeamWiever_Service.exe
 taskkill /f /im Teamviewer.exe
 taskkill /f /im TeamViewer_Service.exe
 taskkill /f /im opera.exe
 taskkill /f /im java.exed
 taskkill /f /im Cortana.exe
 taskkill /f /im Chrome.exe
-taskkill /f /im 
+taskkill /f /im Mcshield.exe
+taskkill /f /im mfeann.exe
 
 echo 
 echo Press Any Key to change your power-plan to increase performance, close the program if you do not want it. (Highly suggested for laptops, and Recommended for desktops.)
